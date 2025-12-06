@@ -3,7 +3,7 @@ from logging.handlers import RotatingFileHandler
 
 # Bot Configuration
 LOG_FILE_NAME = "bot.log"
-PORT = '5010'
+PORT = '8080'
 OWNER_ID = 7660990923
 
 MSG_EFFECT = 5046509860389126442
@@ -20,7 +20,7 @@ API_HASH = "ffc3794690bf254d2867ac58fd293a60"
 WORKERS = 5
 
 DB_URI = "mongodb+srv://Krishna:krishna@cluster0.ecime.mongodb.net/"
-DB_NAME = "yato"
+DB_NAME = "yato1"
 
 FSUBS = [[-1003016571084, True, 10]] # Force Subscription Channels [channel_id, request_enabled, timer_in_minutes]
 # Database Channel (Primary)
