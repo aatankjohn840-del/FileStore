@@ -14,7 +14,7 @@ SHORT_TUT = "https://t.me/How_to_Download_7x/26"
 
 # Bot Configuration
 SESSION = "yato"
-TOKEN = "8485486052:AAH3lE69nQl4yNeo9wjPZVr20f2cvVX9NlE"
+TOKEN = "8485486052:AAEte4Lg51I9--lE_XkwSANlWzjmX-o5hxU"
 API_ID = "24828197"
 API_HASH = "d36e278e89ebeb900aeda4128d413a77"
 WORKERS = 5
